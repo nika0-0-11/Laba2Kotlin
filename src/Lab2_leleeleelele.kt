@@ -1,3 +1,5 @@
 fun main() {
-    println("Hello")
+    /*println("выходите бесы мы станцуем джерси")*/
+    val num = 10
+    println(num)
 }
